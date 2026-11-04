@@ -9,6 +9,9 @@ O trabalho segue a metodologia **CRISP-DM** (compreensão do negócio, compreens
 preparação, modelagem e avaliação) e termina com uma avaliação do modelo na **proporção real**
 de acidentes fatais, que é onde ele mostra para que serve de verdade.
 
+**No Kaggle:** [notebook](https://www.kaggle.com/code/jguilhermealmeida/acidentes-fatais-prf-avalia-o-na-propor-o-real)
+· [dataset](https://www.kaggle.com/datasets/jguilhermealmeida/acidentes-prf-2018-2025-balanceado)
+
 ---
 
 ## Principais resultados
